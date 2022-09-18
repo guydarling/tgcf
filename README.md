@@ -143,6 +143,11 @@ for a long time.
 
 You can enjoy smooth one-click deploys to the major cloud providers.
 
+## Deploy on Heroku :-
+
+<p><a href="https://heroku.com/deploy?template=[https://github.com/guydarling/tgcf]([https://github.com/guydarling/TorrentLeechBot](https://github.com/guydarling/tgcf)))"> <img src="https://www.herokucdn.com/deploy/button.svg" width="150"/></a></p>
+<br>
+
 - [Heroku](https://github.com/aahnik/tgcf/wiki/Deploy-to-Heroku)
 - [Digital Ocean](https://github.com/aahnik/tgcf/wiki/Deploy-to-Digital-Ocean)
 - [Gitpod](https://github.com/aahnik/tgcf/wiki/Run-for-free-on-Gitpod")
